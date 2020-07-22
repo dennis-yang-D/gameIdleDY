@@ -41,7 +41,7 @@ currentTab='quarry'
 oldTab='quarry'
 
 const rankRequirements=[{stone:5},{coins:100}/*,{maxDepth:4}*/]
-ores={Stone:{mult:1},Iron:{mult:1.2,depth:1},Bronze:{mult:1.5,depth:1},Silver:{mult:1.7,depth:1},Gold:{mult:2,depth:1},Ruby:{mult:2.5,depth:2},Sapphire:{mult:3,depth:3}}
+ores={Stone:{mult:1},Iron:{mult:1.2,depth:1},Tin:{mult:1.2,depth:1},Bronze:{mult:1.5,depth:1},Silver:{mult:1.7,depth:1},Gold:{mult:2,depth:1},Aluminum:{mult:1.7,depth:2},Ruby:{mult:2.5,depth:2},Sapphire:{mult:3,depth:3}}
 nextRankText='(Next rank requires 5 stone)'
 coinGain=new Decimal(0)
 const costs={upgrades:[3,20,50,150,300]}
