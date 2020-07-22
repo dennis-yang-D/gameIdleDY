@@ -1,4 +1,4 @@
-# Ranks: Quarry
+# Ranks: Quarry Modded
 
 Paritally inspired by https://aarextiaokhiao.github.io/Ranks-Quarry/
 
