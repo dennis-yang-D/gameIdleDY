@@ -66,8 +66,10 @@ function gameTick() {
 	
 	if (player.rank>4) {
 		showElement('tabmoneybutton','table-cell')
+		showElement('tabauto')
 	} else {
 		hideElement('tabmoneybutton')
+		hideElement('tabauto')
 	}
 	if (tab!=oldTab) {
 		showElement('tab'+tab,'block')
