@@ -138,6 +138,9 @@ function gameTick() {
 			hideElement('coalsection')
 		}
 	}
+	if (tab=='auto') {
+		//later
+	}
 }
 
 function updateElement(elem,id) {
